@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3CB3D3A42268E47D00333B38 /* Eric.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CB3D3A32268E47D00333B38 /* Eric.storyboard */; };
 		F72ABB332268D9A4001598EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72ABB322268D9A4001598EA /* AppDelegate.swift */; };
 		F72ABB352268D9A4001598EA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72ABB342268D9A4001598EA /* ViewController.swift */; };
 		F72ABB382268D9A4001598EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F72ABB362268D9A4001598EA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3CB3D3A32268E47D00333B38 /* Eric.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Eric.storyboard; sourceTree = "<group>"; };
 		F72ABB2F2268D9A4001598EA /* ThanosJournal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThanosJournal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F72ABB322268D9A4001598EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F72ABB342268D9A4001598EA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				F72ABB322268D9A4001598EA /* AppDelegate.swift */,
 				F72ABB342268D9A4001598EA /* ViewController.swift */,
 				F72ABB362268D9A4001598EA /* Main.storyboard */,
+				3CB3D3A32268E47D00333B38 /* Eric.storyboard */,
 				F72ABB392268D9A6001598EA /* Assets.xcassets */,
 				F72ABB3B2268D9A6001598EA /* LaunchScreen.storyboard */,
 				F72ABB3E2268D9A6001598EA /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F72ABB3D2268D9A6001598EA /* LaunchScreen.storyboard in Resources */,
+				3CB3D3A42268E47D00333B38 /* Eric.storyboard in Resources */,
 				F72ABB3A2268D9A6001598EA /* Assets.xcassets in Resources */,
 				F72ABB382268D9A4001598EA /* Main.storyboard in Resources */,
 			);
