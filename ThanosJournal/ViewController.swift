@@ -14,15 +14,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        sadDay()
         happyDay()
         snapFingers(soul: "Carson")
     }
     var soulStone: [Soul] = []
-
-    func sadDay() {
-        print("Dear Journal, I killed Gamora today. #spoilers")
-    }
     
     func happyDay() {
         print("Dear Journal, Today I got all of the infinity stones. I'm going to cleanse half of the universe.")
