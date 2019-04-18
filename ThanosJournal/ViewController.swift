@@ -12,9 +12,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        sadDay()
     }
 
+    func sadDay() {
+        print("Dear Journal, I killed Gamora today. #spoilers")
+    }
 
 }
 
