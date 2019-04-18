@@ -22,6 +22,7 @@ class ViewController: UIViewController {
 
     func sadDay() {
         print("Dear Journal, I killed Gamora today. #spoilers")
+        print("For some reason the snap only killed the second rate avengers")
     }
     
     func happyDay() {
